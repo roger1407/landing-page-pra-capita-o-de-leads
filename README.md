@@ -1,9 +1,9 @@
-# projeto landing-page
+# landing-page pra capitação de leads.
 
 ## <h3>descrição</h3>
-Este é o projeto de  landing page pra capitação de leads.
+pagina pra capitação de leads.
 
-# link do projeto
+# link da pagina
 https://roaring-platypus-81e7a2.netlify.app
 
 ## <h3 align="left">Tecnologias Utilizadas No Projeto</h3>
