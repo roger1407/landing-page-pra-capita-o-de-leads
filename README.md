@@ -36,5 +36,6 @@ https://roaring-platypus-81e7a2.netlify.app
 
 ### versão: Desktop
 ![Capturar2](https://github.com/user-attachments/assets/fc7ffe2b-ba14-4ecc-b79b-a4d6cf36dfeb)
+![Capturar3](https://github.com/user-attachments/assets/58ce40fa-61e8-4eae-a607-e4516f4b561a)
 ![Capturar](https://github.com/user-attachments/assets/326ac661-da2d-409a-bc67-43f78ed130b2)
 
